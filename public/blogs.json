@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/KhsrSCx/cafe-1.jpg",
+    "title": "The Art of Programming",
+    "author_img": "https://i.ibb.co/NjKS6VV/boy1.png",
+    "author": "John Doe",
+    "posted_date": "2023-09-12",
+    "reading_time": 15,
+    "hashtags": ["programming", "coding", "software"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/PMjFQyr/keyboard-tea-cup-apple-office-stationeries-black-background-1.jpg",
+    "title": "Cooking with Fresh Ingredients",
+    "author_img": "https://i.ibb.co/mz0QxCv/boy2.jpg",
+    "author": "Jane Smith",
+    "posted_date": "2023-09-10",
+    "reading_time": 10,
+    "hashtags": ["cooking", "recipes", "food"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/vBMbT3y/flat-lay-work-space-with-coffee-cup-notebook.jpg",
+    "title": "Exploring National Parks",
+    "author_img": "https://i.ibb.co/xYHnSnK/girl1.jpg",
+    "author": "Michael Johnson",
+    "posted_date": "2023-09-08",
+    "reading_time": 20,
+    "hashtags": ["travel", "nature", "adventure"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/PMjFQyr/keyboard-tea-cup-apple-office-stationeries-black-background-1.jpg",
+    "title": "Financial Planning 101",
+    "author_img": "https://i.ibb.co/W2FxJqN/girl2.jpg",
+    "author": "Emily Davis",
+    "posted_date": "2023-09-06",
+    "reading_time": 12,
+    "hashtags": ["finance", "money", "investing"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/z6sVr4r/1.jpg",
+    "title": "Yoga and Mindfulness",
+    "author_img": "https://i.ibb.co/j6vbj3P/profile.png",
+    "author": "David Wilson",
+    "posted_date": "2023-09-04",
+    "reading_time": 18,
+    "hashtags": ["health", "wellness", "mindfulness"]
+  }
+]
